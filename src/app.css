@@ -1,0 +1,19 @@
+.intro-card{
+    width:700px;
+    height:100px;
+    background-color:rgb(248, 206, 227);
+    color:rgb(149, 40, 93);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding:20px 20px;
+    display: block;
+    margin:0 auto;
+    border:3px solid rgb(226, 100, 178);
+    border-radius: 5px;
+    box-shadow: 0 0 5px 3px rgb(197, 106, 170);
+    text-align: justify;
+    }
+.intro-card:hover{
+    border-radius: 20px;
+    padding:25px;
+}
